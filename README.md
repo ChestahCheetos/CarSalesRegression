@@ -1,7 +1,7 @@
 
 # Car Sales Regression
 
-This is an algorithm designed to estimate a car's sale price given a small handful of features.
+This is an algorithm designed to estimate a car's sale price given a small handful of features.  The main purpose of this project was to learn about how to effectively utilize pipelines when building a model.
 
 The notebook is diveded into sections detailing the actions being taken.
 
