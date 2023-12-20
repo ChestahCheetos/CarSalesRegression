@@ -1,5 +1,8 @@
 # Ignore directories
+
 env/
+.ipynb_checkpoints/
 
 # Ignore files
+
 .DS_Store
